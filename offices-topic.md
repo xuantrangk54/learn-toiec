@@ -1,1 +1,24 @@
-offices
+- Documents/ Materials (Tài liệu):
+    - distributing materials: phát tài liệu
+    - examining a document: kiểm tra một tài liệu
+    - filing the paper: sắp xếp giấy tờ
+    - looking through some papers: xem qua một số giấy tờ
+    - putting the paper in the piles: chất giấy tờ thành chồng
+    - reviewing some documents: xem xét một số tài liệu
+    - stapling some documents together: ghim một số tài liệu lại với nhau
+    - writing on a piece of paper: viết trên một mảnh giấy
+- Computers (Máy vi tính):
+    - entering some data into the computer: nhập một số dữ liệu vào máy tính
+    - typing up a document: đánh máy một văn bản
+    - using a laptop computer: sử dụng máy tính xách tay
+    - working at the keyboard: làm việc trên bàn phím
+    - looking at the screen: nhìn vào màn hình
+- Office supplies/ Equipment (Thiết bị văn phòng):
+    - looking in a drawer: nhìn vào một cái ngăn kéo
+    - plugging a cord into a machine: cắm dây vào một cái máy
+    - be scattered around the room: nằm rải rác trong phòng
+    - exchanging business cards: trao đổi danh thiếp
+    - organizing the desk: sắp xếp bàn làm việc
+    - stretching back in his seat: dựa lưng vào chỗ ngồi
+    - putting paper in a copy machine: bỏ giấy vào máy photo
+    - using some office equipment: sử dụng thiết bị văn phòng
