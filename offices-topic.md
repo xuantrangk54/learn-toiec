@@ -23,4 +23,4 @@
     - putting paper in a copy machine: bỏ giấy vào máy photo
     - using some office equipment: sử dụng thiết bị văn phòng
 
-![Tux, the Linux mascot](./images/_57df5e86-6810-4c3a-96d8-4ecf386ad81f.jfif)
+<img src="./images/_57df5e86-6810-4c3a-96d8-4ecf386ad81f.jfif" width="200" height="100">
