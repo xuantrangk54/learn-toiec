@@ -2,7 +2,7 @@
     - distributing materials: phát tài liệu
     - examining a document: kiểm tra một tài liệu
     - filing the paper: sắp xếp giấy tờ
-    - looking through some papers: xem qua một số giấy tờ
+    - looking through some papers: xem qua một số giấy tờcd le
     - putting the paper in the piles: chất giấy tờ thành chồng
     - reviewing some documents: xem xét một số tài liệu
     - stapling some documents together: ghim một số tài liệu lại với nhau
